@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Welcome to goa singham. 
 =======
 <<<<<<< HEAD
@@ -7,3 +8,7 @@ Nothing is impossible in this world
  
 >>>>>>> 6cdd3c4cbd4058dbc38ee84e1ef7514b2b10813b
 >>>>>>> tiger
+=======
+Hi Welcome to goa singham.aata mazi satakli. 
+mala rang yetoy
+>>>>>>> 2e7ffe0d2da0c8eb9d970684ea2a2ca2ccc5b141

@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Welcome to goa singham. 
+=======
+<<<<<<< HEAD
+Nothing is impossible in this world
+=======
+ 
+>>>>>>> 6cdd3c4cbd4058dbc38ee84e1ef7514b2b10813b
+>>>>>>> tiger
